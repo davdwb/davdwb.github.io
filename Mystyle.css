@@ -17,7 +17,7 @@
     display: block;
 }
 
-blok1 {
+.blok1 {
     width: 300px;
     border: 25px solid green;
     padding: 25px;
