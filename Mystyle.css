@@ -18,8 +18,9 @@
 }
 
 .blok1 {
-    width: 300px;
-    border: 25px solid green;
-    padding: 25px;
-    margin: 25px;
+    height: 110px;
+    width: 110px;
+    float: left;
+    margin: 0 5p  0 0;
+    padding: 2px;
 }
