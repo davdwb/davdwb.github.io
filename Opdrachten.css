@@ -46,6 +46,9 @@
 
 
 .blok4 {
+    position: relative;
+    top: -354px;
+    right: -150px;
     height: 150px;
     width: 150px;
     float: left;
