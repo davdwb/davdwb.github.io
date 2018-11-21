@@ -17,58 +17,104 @@
     display: block;
 }
 
-.blok1 {
-    height: 150px;
-    width: 150px;
-    margin: 10px 10px 10px 10px;
-    padding: 2px;
-    background-color: blue;
+.blok1{
+  border: 4px solid #73AD21;
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  margin: 10px 10px 10px 10px;
+  
 }
 
-.blok2 {
-    height: 150px;
-    width: 150px;
-    float: left;
-    margin: 10px 10px 10px 10px;
-    padding: 2px;
-    background-color: red;
+.blok2{
+  border: 4px solid #73AD21;
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  margin: 10px 10px 10px 10px;
+
 }
 
+.blok3{
+  border: 4px solid #73AD21;
+  height: 100px;
+  width: 100px;
+  background-color: rebeccapurple;
+  margin: 10px 10px 10px 10px;
 
-.blok3 {
-    height: 150px;
-    width: 150px;
-    float: left;
-    margin: 10px 10px 10px 10px;
-    padding: 2px;
-    background-color: purple;
 }
 
+.blok4{
+  position: relative;
+  top: -154px;
+  right: -150px;
+  border: 4px solid #73AD21;
+  height: 100px;
+  width: 100px;
+  background-color: rebeccapurple;
+  margin: 10px 10px 10px 10px;
+ 
 
-.blok4 {
-    position: relative;
-    top: -354px;
-    right: -150px;
-    height: 150px;
-    width: 150px;
-    float: left;
-    margin: 10px 10px 10px 10px;
-    padding: 2px;
-    background-color: yellow;
 }
 
-.blok5 {
-    height: 150px;
-    width: 150px;
-    float: left;
-    margin: 10px 10px 10px 10px;
-    padding: 2px;
-    background-color: pink;
+.blok5{
+  position: relative;
+  top: -354px;
+  right: -150px;
+  border: 4px solid #73AD21;
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  margin: 10px 10px 10px 10px;
+
+
 }
 
-.blok6 {
-    height: 150px;
-    width: 150px;
-    margin: 10px 10px 10px 10px;
-    padding: 2px;
-    background-color: Green;
+.blok6{
+  position: relative;
+  top: -354px;
+  right: -150px;
+  border: 4px solid #73AD21;
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  margin: 10px 10px 10px 10px;
+
+
+}
+
+.blok7{
+  position: relative;
+  top: -707px;
+  right: -299px;
+  border: 4px solid #73AD21;
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  margin: 10px 10px 10px 10px;
+
+
+}
+.blok8{
+  position: relative;
+  top: -707px;
+  right: -299px;
+  border: 4px solid #73AD21;
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  margin: 10px 10px 10px 10px;
+
+
+}
+
+.blok9{
+  position: relative;
+  top: -707px;
+  right: -299px;
+  border: 4px solid #73AD21;
+  height: 100px;
+  width: 100px;
+  background-color: rebeccapurple;
+  margin: 10px 10px 10px 10px;
+
